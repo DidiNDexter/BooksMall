@@ -1,0 +1,38 @@
+Frequently Asked Questions (FAQ) for BooksMall 📚
+1. What is BooksMall?
+BooksMall is a marketplace for second-hand books, where users can buy, sell, and chat with sellers in real-time. It’s all about making it easy to find pre-loved books at great prices!
+
+2. How do I browse books by category?
+You can simply head over to the "Browse by Categories" section to explore various book genres and find what you’re looking for. 📖
+
+3. How do I communicate with sellers?
+BooksMall has a real-time chat feature powered by Socket.IO, which allows you to talk directly to sellers without delay. This way, you can ask questions about the book condition, price, or anything else before making a purchase. 🗨️
+
+4. Can I get personalized book recommendations?
+Yes! BooksMall offers personalized recommendations based on your search history. It helps you discover new books that align with your interests. 🎯
+
+5. How do I get started with BooksMall?
+It’s simple! You can either check out the live version of the platform here (insert live link), or if you’re a developer, you can follow the installation steps to run the project locally. You’ll need Node.js, and you can use npm, yarn, or bun to get it up and running. 🚀
+
+6. Can I contribute to the project?
+Absolutely! BooksMall is open-source, and we encourage contributions, especially during Hacktoberfest. Whether it’s bug fixes, new features, or documentation improvements, your contributions are welcome. Just fork the repo, make your changes, and submit a pull request. 🤝
+
+7. What technologies power BooksMall?
+BooksMall is built with a modern tech stack:
+
+Frontend: Next.js, React, Tailwind CSS
+Backend: Node.js, Express, MongoDB, and Socket.IO for real-time communication.
+8. Does BooksMall use Docker?
+Yes! If you prefer using Docker, you can easily build and run the project using Docker commands. We’ve provided a step-by-step guide to help you get started.
+
+9. I found a bug. How can I report it?
+If you come across any issues, feel free to raise them in the Issues section of the GitHub repo. We appreciate all feedback and contributions to make the platform better! 🛠️
+
+10. How can I deploy BooksMall?
+You can deploy BooksMall on Vercel in just a few clicks. Check out the Next.js deployment documentation for more details on how to get started.
+
+11. Is there a live demo?
+Yes, you can access the live demo of BooksMall here (insert live link) and see how it works in action.
+
+12. What license does this project use?
+BooksMall is licensed under the MIT License, so feel free to use or modify the code in your own projects.
